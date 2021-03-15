@@ -31,4 +31,4 @@ async def on_message(message):
         await message.channel.send('Rolling')
         await message.channel.send(random.randint(1,21))
 
-client.run('NzQ5ODE5MDA4MjE1Mjg1ODUx.X0xhXg.WCasn23fpcDGmEj8WVA8j7_y5tE')
+client.run('insert token here')
